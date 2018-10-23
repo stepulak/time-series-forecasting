@@ -12,3 +12,5 @@ To run these scripts you need to have Python 3 and bunch of it's libraries insta
 * Scikit-learn (http://scikit-learn.org/)
 
 To install them, use pip3 installation program.
+
+FYI, I used old version of these scripts in my bachelor thesis.
